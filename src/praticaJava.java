@@ -47,5 +47,7 @@ public class praticaJava {
                 Valor final (com desconto aplicado): %f
                 """.formatted(precoDoProduto, percentDesconto, percent, desconto, valorFinal);
         System.out.println(mensagem);
+
+
     }
 }
